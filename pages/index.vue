@@ -1,5 +1,4 @@
 <template>
-    </div>
     <!-- Seção Hero -->
     <section class="hero">
       <h1>Impulsione Seu Negócio com Marketing Digital</h1>
