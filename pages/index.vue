@@ -1,4 +1,5 @@
 <template>
+  <!-- Meta Verification -->
   <script>
 export default {
   head() {
